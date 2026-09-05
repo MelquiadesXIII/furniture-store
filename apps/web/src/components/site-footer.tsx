@@ -1,6 +1,6 @@
 import QRCode from "qrcode";
 
-const REPO_URL = "https://github.com/MelquiadesXIII/furniture-store";
+const REPO_URL = "https://github.com/MelquiadesXIII/furnistore";
 
 function GithubMark({ className }: { className?: string }) {
   return (
