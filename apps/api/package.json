@@ -1,9 +1,9 @@
 {
-  "name": "@furniture-store/api",
+  "name": "@furnistore/api",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "dotnet watch --project ./API.FurnitoreStore.API/API.FurnitoreStore.API.csproj run",
+    "dev": "dotnet watch --project ./API.Furnistore.API/API.Furnistore.API.csproj run",
     "build": "dotnet build API.sln -c Release",
     "clean": "dotnet clean API.sln"
   }

@@ -1,5 +1,5 @@
 {
-  "name": "furniture-store",
+  "name": "furnistore",
   "private": true,
   "packageManager": "pnpm@9.0.0",
   "engines": {
